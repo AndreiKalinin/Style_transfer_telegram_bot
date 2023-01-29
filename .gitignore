@@ -1,0 +1,5 @@
+*.env
+*.cfg
+bin/
+lib/
+.idea/
